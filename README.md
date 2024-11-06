@@ -1,16 +1,38 @@
-## Hi there 👋
+# Gabriel's Portfolio
 
-<!--
-**iStreet2/iStreet2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+- Desenvolvedor iOS com experiência em projetos como Tabsy e Arqion.
+- Apaixonado por tecnologia, design clean e acessibilidade.
+- Interesse em gamificação para educação e aplicativos inovadores para advogados.
 
-Here are some ideas to get you started:
+## 💼 Featured Projects
+### 1. [Arqion](link-do-repositorio)
+Aplicativo para advogados, desenvolvido para macOS, que ajuda a gerenciar clientes, processos e documentos.  
+**Principais Funcionalidades:**
+- Organização de documentos em pastas
+- Importação de PDFs
+- Visualização de informações e movimentações de processos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. [Tabsy](link-do-repositorio)
+App para ensinar como ler tablaturas musicais, desenvolvido com SwiftUI.  
+**Destaques:**
+- Interface amigável e intuitiva
+- Animações refinadas
+
+## 📚 Experience & Skills
+- **Linguagens:** Swift, SwiftUI
+- **Frameworks:** Core Data, SpriteKit, CloudKit
+- **Ferramentas:** Xcode, Git, Figma
+
+## 🏆 Achievements
+- Prêmio do Campus Mobile com o projeto Tabsy.
+- Desenvolvimento completo do Arqion em 6 meses.
+
+## 📝 Contact Me
+- **Email:** seuemail@example.com
+- **LinkedIn:** [Gabriel's LinkedIn](link-do-linkedin)
+- **Website/Portfolio:** [seusite.com](link)
+
+---
+
+*Obrigado por visitar meu portfólio!*
