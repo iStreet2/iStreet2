@@ -75,3 +75,82 @@
 ---
 
 *Obrigado por visitar meu portfólio!*
+
+
+# Gabriel's Portfolio
+
+## 👋 About Me
+- iOS Developer with experience in projects developed during my time at the Apple Developer Academy | Mackenzie and during my Computer Science degree at Mackenzie!
+- Passionate about technology, programming, clean design, and accessibility.
+- Interested in gamification, education, and creating new things!
+
+# 📱 Developed Projects
+
+## Arqion - Legal Document Manager
+- **Description**: A comprehensive app for lawyers, developed in SwiftUI with some integrations in AppKit, that helps organize clients, cases, and related documents. It includes features like dragging and dropping PDFs and integration with the Mac system.
+- **Technologies**: Swift, SwiftUI, AppKit, PDFKit, CoreData.
+- **Development Time**: 6 months
+- **Key Features**: macOS integration, efficient legal document organization, and a seamless user experience.
+
+---
+
+## Tabsy - Learn to Read Tablatures
+- **Description**: An app developed in SwiftUI to teach children with neurodevelopmental disorders how to read tablatures, a form of musical notation for string instruments. It is an educational and fun tool for learning to play music.
+- **Technologies**: SwiftUI, Swift, AVFoundation, CoreData.
+- **Development Time**: 2 months
+- **Goal**: Support musical learning in a simple and engaging way.
+
+---
+
+## SafeTalk
+- **Description**: An app entirely built in UIKit that helps align expectations within a relationship, promoting the building of healthy relationships.
+- **Technologies**: Swift, UIKit, LocalAuthentication, AVFoundation, CoreData.
+- **GitHub Repository**: [SafeTalk Public Repository](https://github.com/iStreet2/SafeTalk.git)
+- **Development Time**: 1 month
+- **Goal**: Facilitate clear and conscious communication between partners.
+
+---
+
+## SrBhas
+- **Description**: An interactive and fun math game, developed in SwiftUI and SpriteKit, that reinforces the knowledge of solving first-degree equations in a playful way.
+- **Technologies**: SwiftUI, SpriteKit, CoreData.
+- **Development Time**: 2 months
+- **Goal**: Reinforce mathematical concepts through engaging and playable challenges.
+
+---
+
+## SpotEat
+- **Description**: A multiplayer game developed in SwiftUI, using GameCenter for local multiplayer connections. It encourages social interaction during gatherings of friends, making the experience fun and engaging on iPhones or iPads.
+- **Technologies**: Swift, SwiftUI, SpriteKit, GameCenter, AVFoundation, CoreData.
+- **Development Time**: 1 month
+- **Functionality**: Promotes real-world interaction with local matches and engaging multiplayer.
+
+---
+
+## PBF - Condominium Market
+- **Description**: A two-way app for clients and vendors, where vendors are the market stalls of my condominium and clients are the residents who can order items for delivery or pick-up. The app uses Firebase for cloud communication between clients and vendors.
+- **Technologies**: Swift, SwiftUI, Firebase.
+- **GitHub Repository**: [PBF Public Repository](https://github.com/iStreet2/LaboratorioEngenhariaDeSoftware.git)
+- **Development Time**: 1 month
+- **Goal**: Facilitate interaction and commerce in the condominium market.
+
+---
+
+# 🏆 Achievements
+
+- **Campus Mobile 2024**: Winner in the Education category alongside my team for the Tabsy project. We received cash prizes and an all-expenses-paid trip to Silicon Valley, visiting companies like PlugAndPlay, Genentech, Google, among others.
+- **Swift Student Challenge 2024**: Submitted a project in SwiftUI and SpriteKit for my younger brother to practice first-degree equations. I won an official certificate from Apple and attended WWDC24 in person at Apple Park.
+
+# 📚 Experience & Skills
+- **Languages**: Swift
+- **Frameworks**: Core Data, SpriteKit, CloudKit, SwiftUI, UIKit, AppKit, SwiftData, AVFoundation, GameCenter, LocalAuthentication, Firebase.
+- **Tools**: Xcode, Git, Figma
+
+# 📝 Contact
+- **Email**: gabrielvicentinnegro@hotmail.com
+- **LinkedIn**: [Gabriel's LinkedIn](https://www.linkedin.com/in/gabrielnegro/)
+- **Phone**: +55 11 984435268
+
+---
+
+*Thank you for visiting my portfolio!*
