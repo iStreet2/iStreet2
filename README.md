@@ -4,6 +4,7 @@
 - Desenvolvedor iOS com experiência em projetos realizados no meu tempo na Apple Developer Academy | Mackenzie e durante meu curso de Ciência da Computação no Mackenzie!
 - Apaixonado por tecnologia, programação, design clean e acessibilidade.
 - Interesse em gamificação, educação e em criar coisas novas!
+- Fiz monitoria de Álgebra Booleana e Circuitos Digitais na minha faculdade.
 
 # 📱 Projetos Desenvolvidos
 
@@ -76,6 +77,7 @@
 
 *Obrigado por visitar meu portfólio!*
 
+---
 
 # Gabriel's Portfolio
 
@@ -83,6 +85,7 @@
 - iOS Developer with experience in projects developed during my time at the Apple Developer Academy | Mackenzie and during my Computer Science degree at Mackenzie!
 - Passionate about technology, programming, clean design, and accessibility.
 - Interested in gamification, education, and creating new things!
+- Worked as a teaching assistant for Boolean Algebra and Digital Circuits at my university.
 
 # 📱 Developed Projects
 
