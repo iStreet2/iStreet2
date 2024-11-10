@@ -61,7 +61,7 @@
 # 🏆 Conquistas
 
 - **Campus Mobile 2024**: Ganhador na categoria Educação junto com minha equipe pelo projeto Tabsy. Recebemos prêmios em dinheiro e uma viagem inteiramente paga ao Vale do Silício, com visitas a empresas como PlugAndPlay, Genentech, Google, entre outras.
-- **Swift Student Challenge 2024**: Enviamos um projeto em SwiftUI e SpriteKit para meu irmão mais novo treinar equações de primeiro grau. Fui premiado com um certificado oficial da Apple e compareci ao WWDC24 no Apple Park.
+- **Swift Student Challenge 2024**: Enviei um projeto em SwiftUI e SpriteKit para meu irmão mais novo treinar equações de primeiro grau. Fui premiado com um certificado oficial da Apple e compareci ao WWDC24 no Apple Park.
 
 # 📚 Experiência & Habilidades
 - **Linguagens**: Swift
